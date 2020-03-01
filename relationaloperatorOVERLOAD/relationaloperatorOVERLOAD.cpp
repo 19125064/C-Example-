@@ -35,7 +35,7 @@ public:
 		{
 			return true;
 		}
-		return false;
+		return false;//测试区域//
 	}
 	
 private:
